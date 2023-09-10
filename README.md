@@ -24,6 +24,8 @@ The Food and Medicine Expiry Date Tracker is a specialized web application desig
 
 - **Fridge Raider**: Look up recipes with the food items you currently have in hand for ease of mind.
 
+- **Shopping List**: Expired items are automatically added in the shopping list for the user.
+
 ### Prerequisites
 
 Hardware: 
@@ -49,7 +51,8 @@ Windows 7, Linux mint 16, Mac OS X Yosemite or later
 
 
 Home Page: 
-  ![1](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/504a4a70-5dfd-4627-b309-920b453f1429)
+  ![1](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/3f1d9f6c-2fd1-40f6-9d24-34c3f7335571)
+
 
                                           
 Home page: The user will be landed here on loading the website with options such as Shopping list, About Us, Contact, sign in being available with just a click away
@@ -57,46 +60,46 @@ Home page: The user will be landed here on loading the website with options such
 
 
 About Us Page: 
-   ![2](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/c7f90c8c-68ab-4e9b-966b-bd4044bac973)
+   ![2](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/2ed42b01-48f4-4a58-9cfc-50b5f630ef62)
 
  
                                   
 About Us: Here The user will be able to know the whats, hows and the purpose of the website to be made by us 
  
 Contact Us: 
-  ![3](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/6d7ebb68-cb5d-4566-a952-09eb73cf789f)
+  ![3](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/da1159b1-6508-4da4-9864-013560335c03)
 
                               
                         
 Contact Us: Here the User Can Contact us if he/she chooses to reach out regarding an issue or bug he/she has encountered
 Sign Up: 
-  ![4](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/10fec5b0-2b48-4b7a-ace0-7e2103a2256f)
+  ![4](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/b817eabb-1b37-4e49-91ff-263e5ffb7096)
 
  
                                     
 Sign Up: Here The user will be prompted to sign up to our website so that we can store the user information which will later on be used in processing the data and segregate it accordingly.
 
 Login: 
-  
- ![5](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/3b876dee-bbc1-4ef9-b293-5c3a61f2e9ef)
+  ![5](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/52510910-2759-458c-a1dc-a0b086e1f267)
+ 
 
                              
                                       
  Login Page: Here the user can login with their email and password so that their data can be displayed to them.
 Item Storing Page: 
-  ![6](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/576689d1-1135-4a41-a573-7bafd8ee6565)
+  ![6](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/435591d6-2f54-4fdf-bad1-3589c36c8777)
 
                                      
 Item page: Here the user will be displayed the items they have added into the list with the expiry date of those items.
 
 Recipe recommender Page:   
-                    ![7](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/41b52305-d855-474f-be7a-a6ebee2b13a4)
+                   ![7](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/44496c09-47c8-4269-bc8b-e2447c2a8a51)
 
                       
 Recipe recommender: User will be recommended few recipes from the items remaining in their fridge. User can select how many recipes they want from the option of 3,5 and 10. They need to mention the names of the items remaining in their fridge and then they will be recommended the recipes 
 
 Shopping List Page:
-                    ![8](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/f4294cea-a8c5-40b1-bdab-44058fcbfe56)
+               ![8](https://github.com/RonakWadhwa66/Best_Byes/assets/88489591/361e170a-1ffb-4586-ae0b-a9b6f3823662)     
 
                     
 
